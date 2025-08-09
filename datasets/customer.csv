@@ -1,0 +1,31 @@
+CustomerID,CustomerName,Email,PhoneNumber,PrimaryAddress,CreatedDate,CustomerType,IsActive
+1,Matthew Meyer,dawn70@gmail.com,1709154420,"Unit 6346 Box 5212, DPO AA 39342",2021-08-28,Retail,TRUE
+2,David Cox,guerrerotiffany@armstrong-hughes.com,(800)589-2565x9414,"4519 Hansen Shoals, Costafurt, WI 60151",2022-02-22,Wholesale,TRUE
+3,Michael Rich,kathleenfoster@yahoo.com,(021)920-2454x901,"5814 Morrison Hollow Apt. 972, Wilsonland, GA 70406",2021-07-04,Retail,TRUE
+4,Kelsey Shannon,jenniferhawkins@simmons.com,150-418-7995x73771,"9443 Martin Locks Suite 554, Davidside, UT 12122",2021-04-23,Retail,TRUE
+5,Cheryl Hardy,terry33@brown-lewis.com,049-831-3316x55308,"9677 Hernandez Trafficway Suite 680, Christophermouth, LA 22062",2021-12-10,Wholesale,TRUE
+6,Lisa Zimmerman,bradley86@hotmail.com,484.825.3872x94590,"PSC 7551, Box 5253, APO AA 24273",2021-04-03,Retail,TRUE
+7,Bryan Hudson,angela71@harvey.org,077.013.1500x83152,"92945 Teresa Terrace Apt. 170, Lake Justinton, GA 67794",2020-12-24,Retail,TRUE
+8,Mary Torres,johnwillis@lee.biz,416-803-3982x847,"7478 Lisa Mountain, Heathertown, HI 42132",2021-04-21,Retail,TRUE
+9,Cameron Baldwin,bobby77@mckenzie.com,001-609-641-5590x150,"8376 Andrews Causeway Apt. 955, West Grant, KS 32082",2021-11-04,Wholesale,TRUE
+10,Betty Davis,nicole04@hines.com,179.253.6249,"227 Ellis Walk Suite 562, Landryborough, GA 74112",2021-03-19,Wholesale,TRUE
+11,Mary Jones,rweaver@yahoo.com,774.330.4624x74635,"84236 Austin Creek Suite 648, Margaretfurt, AL 76789",2021-03-09,Retail,TRUE
+12,Alex Davis,amy88@hotmail.com,108-166-8811x917,"Unit 6200 Box 1196, DPO AA 96606",2021-01-02,Wholesale,TRUE
+13,Jose Long,cjones@yahoo.com,001-591-871-7936x6567,"Unit 2838 Box 5956, DPO AE 69389",2021-01-12,Wholesale,TRUE
+14,Ronnie Garcia,thompsonwilliam@villarreal.com,202-726-0061,"988 Derek Hill Suite 100, Lake Bruce, HI 76077",2021-11-16,Retail,TRUE
+15,William Lewis,ellenrios@rodriguez.net,894-372-6604,"1799 Jennifer Shore Suite 407, Lake Chelsea, NM 63197",2022-06-29,Retail,TRUE
+16,Robert Jordan,ecooper@nixon.com,001-985-824-2259x2756,"92523 Osborne Islands, Mayfort, NE 96971",2021-04-26,Wholesale,TRUE
+17,Samuel Hall,clarkscott@king.com,001-645-023-8794x893,"4981 James Estates, North Anthony, MT 16995",2022-07-06,Wholesale,TRUE
+18,Ricardo Cruz,annaphillips@hotmail.com,915-861-4148x728,"55657 Phelps Land Suite 533, West Adam, WI 08947",2020-11-01,Wholesale,TRUE
+19,Charles Campbell,anthony05@mosley-williams.com,(262)751-4676x08603,"606 Stacy Mission Suite 545, West Kelly, NV 45259",2021-10-11,Wholesale,TRUE
+20,Connor Garza,valerieryan@yahoo.com,351-639-5397,"007 Jacqueline Cliff Apt. 734, East Samuel, WV 23650",2021-05-09,Wholesale,TRUE
+21,Rebecca Payne,herreraalexander@castillo-doyle.biz,001-724-154-3345,"PSC 4082, Box 0260, APO AE 13205",2021-08-23,Wholesale,TRUE
+22,Donna Erickson,colemary@yahoo.com,3707290575,"5336 Emily Mountains, Danielleland, CT 53391",2021-03-09,Retail,TRUE
+23,Ronald Hopkins,andrew68@yahoo.com,+1-062-234-8252x1437,"0777 Nash Ferry Suite 357, East Robintown, MT 80390",2021-03-25,Retail,TRUE
+24,Robert Porter,brandy76@gmail.com,001-400-202-2047x910,"999 Hannah Turnpike, North Josephborough, VT 72440",2021-03-28,Wholesale,TRUE
+25,Jeremy Garcia,tiffany13@yahoo.com,001-311-666-5925x9239,"8634 Clifford Knolls, Banksside, WY 45249",2022-05-16,Retail,TRUE
+26,Samantha Chavez,jacobscott@hotmail.com,+1-041-383-1845,"94605 Jennifer Burg, Crystalberg, TX 27434",2021-04-22,Wholesale,TRUE
+27,Wayne Dalton,kathleenarnold@hotmail.com,041.452.6012x01048,"9181 Rodriguez Overpass Suite 727, West Jo, NE 20459",2022-05-10,Wholesale,TRUE
+28,James Mcdonald,fischerjoseph@wilson.net,(200)562-9357x957,"8354 George Ports Apt. 918, Gardnertown, CT 35097",2022-02-18,Retail,TRUE
+29,Austin Smith,nicholas99@lewis.org,+1-418-582-4359x36936,"231 Ortiz Springs Apt. 024, Wilkinsonton, FL 07533",2020-11-14,Wholesale,FALSE
+30,Alex Gardner,kingcrystal@costa.net,2786193099,"273 Derrick Key Suite 916, Timothyfurt, DE 16171",2021-02-10,Wholesale,FALSE
