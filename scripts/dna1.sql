@@ -2,7 +2,7 @@ USE DNA;
 
 SELECT * FROM customer;
     
-# Data Standardization - String Functions
+# Data Standardization - String Functions 
 
 # 1. TRIM() - Removes leading or trailing spaces
 SELECT TRIM(CustomerName) AS Lefy  FROM customer;
