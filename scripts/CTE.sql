@@ -12,7 +12,7 @@ ORDER BY CustomerName;
 */
 USE DNA;
 
-SELECT * FROM customer;
+SELECT * FROM customer; 
 SELECT * FROM orderdetails;
 SELECT * FROM product;
 SELECT * FROM orderinfo;
